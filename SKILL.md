@@ -1,7 +1,7 @@
 ---
 name: linkedin-person-alumni
 description: "Find alumni connections via school ID and personnel ID from LinkedIn. Trace educational‑based networks to source talents and grow your B2B contact list.\n\nTrigger: LinkedIn alumni discovery, educational‑network mapping, alumni‑connection research, talent sourcing, B2B contact enrichment, institutional relationship analysis"
-metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.4","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # LinkedIn Person Alumni Query
